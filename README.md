@@ -1,5 +1,5 @@
 # HR-Attritition
-(Employee Attrition prediction):[https://hr-attrition.herokuapp.com/predict]
+(Employee Attrition prediction):[https://hr-attrition.herokuapp.com/]
 
 conda create -p venv python==3.9 -y
 
